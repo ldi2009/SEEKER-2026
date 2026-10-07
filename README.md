@@ -23,6 +23,11 @@ description. Raw sequencing reads are deposited separately (accessions to be add
 acceptance). Small copies of the key result tables are also kept in this repository for
 convenience, as noted in each project's README.
 
+## Code availability
+
+All pipeline code in this repository is archived at Zenodo
+(https://doi.org/10.5281/zenodo.23216513).
+
 ## License
 
 Code: MIT — see [LICENSE](LICENSE). Data on Dryad: CC0 1.0.
