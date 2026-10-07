@@ -1,0 +1,35 @@
+# raw sequencing data stays local (not committed)
+*/data/sequencing/
+
+# sequencing / pipeline run outputs (generated locally)
+results/
+output/
+analysis/
+logs/
+*.log
+*.fq
+*.fq.gz
+*.fastq
+*.fastq.gz
+*.bam
+*.bam.bai
+*.mmi
+
+# ... but the shipped processed screen results live here:
+!B27_single_TCR_screen/data/results/
+!B27_single_TCR_screen/data/results/**
+!SEEKER_single_TCR_DMF5_Flu_screen/results/
+!SEEKER_single_TCR_DMF5_Flu_screen/results/**
+!SEEKER_single_TCR_DMF5_Flu_screen/SEEKER_4TCR_screen_2311/results/
+!SEEKER_single_TCR_DMF5_Flu_screen/SEEKER_4TCR_screen_2311/results/**
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store

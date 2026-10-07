@@ -1,0 +1,46 @@
+# Workflow 1: Illumina peptide-only single-TCR screen
+# Example values reproduce the TCR59 / TCR63 analysis (R1 + R2).
+# Copy to configs/my_screen.yml and adjust paths.
+
+# --- output layout (created if missing) ---
+output_dir: results
+logs_dir: logs
+
+# --- reference files ---
+# NOTE: reference FASTAs ship zipped under data/reference/ — unzip first:
+#   unzip 'data/reference/*.zip' -d data/reference/
+reference:
+  flank_5prime: CTGTGCTCGCGCTACTCTCTCTTTCTGGCCTGGAGGCT
+  flank_3prime: GGATGCGGAGGGTCCGGCGGGGGA
+  human_peptide_fasta: data/reference/human_proteome_B2705.fasta
+  virus_peptide_fasta: data/reference/virome_proteome_B2705.fasta
+  # UniProt proteomes used to map UniProt ID -> gene name
+  proteome_dir: data/reference
+  proteome_fastas:
+    - 10239_viruses_reviewed.fasta
+    - human_reviewed_unreviewed.fasta
+
+# --- pre-selection (R0) count tables (columns: Peptide, Read Count) ---
+round0:
+  virus_counts: data/round0/V2_B27_virome_pep_count.csv
+  human_counts: data/round0/V2_B27_human_pep_count.csv
+
+# --- extraction options ---
+extract:
+  max_reads: null          # e.g. 1000000 for a smoke test; null = all reads
+
+# --- samples ---
+# R1: already-processed fullresult CSV (nt, count, aa, length; headerless).
+#     Alternatively give `fastq` and the driver will extract it the same way as R2.
+# R2: raw clean FASTQ (.fq/.fastq[.gz]); extracted with 01_extract_peptide_counts.py.
+samples:
+  TCR59:
+    R1:
+      fullresult: data/sequencing/TCR59/fullresult_300-611_plasmid_library.csv
+    R2:
+      fastq: data/sequencing/TCR59/TCR59-R2_1.clean.fq.gz
+  TCR63:
+    R1:
+      fullresult: data/sequencing/TCR63/fullresult_300-614_plasmid_library.csv
+    R2:
+      fastq: data/sequencing/TCR63/TCR63-R2_1.clean.fq.gz

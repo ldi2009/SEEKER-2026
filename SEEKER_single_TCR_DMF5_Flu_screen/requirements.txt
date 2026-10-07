@@ -1,0 +1,9 @@
+pandas
+numpy
+matplotlib
+pyecharts
+logomaker
+networkx
+scipy
+scikit-learn
+adjustText

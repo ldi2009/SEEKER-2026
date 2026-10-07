@@ -1,0 +1,326 @@
+{
+ "Q67878": {
+  "entry": "DPOL_HBVD6",
+  "protein": "Protein P [Includes: DNA-directed DNA polyme",
+  "organism": "Hepatitis B virus genotype D subtype ayw",
+  "fasta_old": "DPOL_"
+ },
+ "P20128": {
+  "entry": "POLN_TYMVA",
+  "protein": "Non-structural replication polyprotein",
+  "organism": "Turnip yellow mosaic virus",
+  "fasta_old": "POLR_"
+ },
+ "P04291": {
+  "entry": "TEG3_HHV11",
+  "protein": "Tegument protein UL14",
+  "organism": "Human herpesvirus 1",
+  "fasta_old": "TEG3_"
+ },
+ "P28976": {
+  "entry": "L_TSWV1",
+  "protein": "RNA-directed RNA polymerase L",
+  "organism": "Tomato spotted wilt virus",
+  "fasta_old": "L_TSW"
+ },
+ "P89437": {
+  "entry": "TEG3_HHV2H",
+  "protein": "Tegument protein UL14",
+  "organism": "Human herpesvirus 2",
+  "fasta_old": "TEG3_"
+ },
+ "A0PJ24": {
+  "entry": "L_BCNVU",
+  "protein": "RNA-directed RNA polymerase L",
+  "organism": "Bear Canyon mammarenavirus",
+  "fasta_old": "L_BCN"
+ },
+ "P0C6V8": {
+  "entry": "R1AB_BRV1",
+  "protein": "Replicase polyprotein 1ab",
+  "organism": "Breda virus 1",
+  "fasta_old": "R1AB_"
+ },
+ "Q89904": {
+  "entry": "VGLN_ARV",
+  "protein": "Non-structural glycoprotein",
+  "organism": "Adelaide River virus",
+  "fasta_old": "VGLN_"
+ },
+ "P89431": {
+  "entry": "HEPA_HHV2H",
+  "protein": "DNA helicase/primase complex-associated prot",
+  "organism": "Human herpesvirus 2",
+  "fasta_old": "HEPA_"
+ },
+ "Q67472": {
+  "entry": "DNMT_FRG3G",
+  "protein": "Probable DNA",
+  "organism": "Frog virus 3",
+  "fasta_old": "DNMT_"
+ },
+ "O36385": {
+  "entry": "VG36_ALHV1",
+  "protein": "Putative tyrosine kinase 36",
+  "organism": "Alcelaphine herpesvirus 1",
+  "fasta_old": "VG36_"
+ },
+ "P0CK18": {
+  "entry": "CPRT_PMTVS",
+  "protein": "91 kDa readthrough protein",
+  "organism": "Potato mop-top virus",
+  "fasta_old": "CPRT_"
+ },
+ "Q08308": {
+  "entry": "CAPSD_PCV87",
+  "protein": "Capsid protein",
+  "organism": "Peanut clump virus",
+  "fasta_old": "CAPSD"
+ },
+ "P03006": {
+  "entry": "VG12_BPP22",
+  "protein": "Replicative DNA helicase",
+  "organism": "Salmonella phage P22",
+  "fasta_old": "VG12_"
+ },
+ "Q2HR78": {
+  "entry": "DUT_HHV8P",
+  "protein": "Deoxyuridine 5'-triphosphate nucleotidohydro",
+  "organism": "Human herpesvirus 8 type P",
+  "fasta_old": "DUT_H"
+ },
+ "Q90038": {
+  "entry": "NCAP_SABVB",
+  "protein": "Nucleoprotein",
+  "organism": "Sabia mammarenavirus",
+  "fasta_old": "NCAP_"
+ },
+ "P12639": {
+  "entry": "DNBI_BHV2B",
+  "protein": "Major DNA-binding protein",
+  "organism": "Bovine herpesvirus 2",
+  "fasta_old": "DNBI_"
+ },
+ "A4K151": {
+  "entry": "RDRP_I54A2",
+  "protein": "RNA-directed RNA polymerase catalytic subuni",
+  "organism": "Influenza A virus",
+  "fasta_old": "RDRP_"
+ },
+ "P29165": {
+  "entry": "POLG_YEFV8",
+  "protein": "Genome polyprotein [Cleaved into: Capsid pro",
+  "organism": "Yellow fever virus",
+  "fasta_old": "POLG_"
+ },
+ "P20179": {
+  "entry": "RDRP_CCMV",
+  "protein": "RNA-directed RNA polymerase 2a",
+  "organism": "Cowpea chlorotic mottle virus",
+  "fasta_old": "RDRP_"
+ },
+ "Q77MS7": {
+  "entry": "NP03_GAHVM",
+  "protein": "Nuclear phosphoprotein UL3 homolog",
+  "organism": "Gallid herpesvirus 2",
+  "fasta_old": "NP03_"
+ },
+ "P03505": {
+  "entry": "NEP_I50A0",
+  "protein": "Nuclear export protein",
+  "organism": "Influenza A virus",
+  "fasta_old": "NEP_I"
+ },
+ "Q66575": {
+  "entry": "POLG_EC12T",
+  "protein": "Genome polyprotein [Cleaved into: P1; Capsid",
+  "organism": "Echovirus 12",
+  "fasta_old": "POLG_"
+ },
+ "P03122": {
+  "entry": "VE2_BPV1",
+  "protein": "Regulatory protein E2",
+  "organism": "Bovine papillomavirus type 1",
+  "fasta_old": "VE2_B"
+ },
+ "P41357": {
+  "entry": "L_RINDR",
+  "protein": "RNA-directed RNA polymerase L",
+  "organism": "Rinderpest virus",
+  "fasta_old": "L_RIN"
+ },
+ "Q5UQS9": {
+  "entry": "YR338_MIMIV",
+  "protein": "Uncharacterized protein R338",
+  "organism": "Acanthamoeba polyphaga mimivirus",
+  "fasta_old": "YR338"
+ },
+ "P11368": {
+  "entry": "POL_IPMA",
+  "protein": "Intracisternal A-particle Pol-related polypr",
+  "organism": "Mouse intracisternal a-particle MIA14",
+  "fasta_old": "POL_I"
+ },
+ "Q08534": {
+  "entry": "R1AB_BYVU",
+  "protein": "Replicase polyprotein 1ab [Cleaved into: Lea",
+  "organism": "Beet yellows virus",
+  "fasta_old": "R1AB_"
+ },
+ "P12393": {
+  "entry": "SPI1_MYXVL",
+  "protein": "Serine proteinase inhibitor 1",
+  "organism": "Myxoma virus",
+  "fasta_old": "SPI1_"
+ },
+ "A7J391": {
+  "entry": "VP2_ROTHS",
+  "protein": "Inner capsid protein VP2",
+  "organism": "Rotavirus A",
+  "fasta_old": "VP2_R"
+ },
+ "D4N3P2": {
+  "entry": "REP_HCYV5",
+  "protein": "Replication-associated protein",
+  "organism": "Human associated cyclovirus 1",
+  "fasta_old": "REP_H"
+ },
+ "Q9IMM4": {
+  "entry": "RDRP_NODAM",
+  "protein": "RNA-directed RNA polymerase",
+  "organism": "Nodamura virus",
+  "fasta_old": "RDRP_"
+ },
+ "A4ZU98": {
+  "entry": "Y105_ABVP",
+  "protein": "Uncharacterized protein ORF105",
+  "organism": "Acidianus bottle-shaped virus",
+  "fasta_old": "Y105_"
+ },
+ "Q83264": {
+  "entry": "1A_CMVY",
+  "protein": "Replication protein 1a [Includes: ATP-depend",
+  "organism": "Cucumber mosaic virus",
+  "fasta_old": "1A_CM"
+ },
+ "Q8QVL3": {
+  "entry": "CAPSD_TTVF1",
+  "protein": "Capsid protein",
+  "organism": "Torque teno felis virus",
+  "fasta_old": "CAPSD"
+ },
+ "P36756": {
+  "entry": "VL2_HPV30",
+  "protein": "Minor capsid protein L2",
+  "organism": "Human papillomavirus 30",
+  "fasta_old": "VL2_H"
+ },
+ "Q9ENL4": {
+  "entry": "CAPSD_CTFVL",
+  "protein": "Inner capsid protein VP2",
+  "organism": "Colorado tick fever virus",
+  "fasta_old": "VP2_C"
+ },
+ "P00513": {
+  "entry": "PK_BPT7",
+  "protein": "Protein kinase 0.7",
+  "organism": "Escherichia phage T7",
+  "fasta_old": "PK_BP"
+ },
+ "Q9DUC4": {
+  "entry": "CAPSD_TTVV9",
+  "protein": "Capsid protein",
+  "organism": "Torque teno virus",
+  "fasta_old": "CAPSD"
+ },
+ "P89680": {
+  "entry": "1A_TOBSV",
+  "protein": "Replication protein 1a [Includes: ATP-depend",
+  "organism": "Tobacco streak virus",
+  "fasta_old": "1A_TO"
+ },
+ "Q914K6": {
+  "entry": "Y024_SIFVH",
+  "protein": "Uncharacterized protein 24",
+  "organism": "Sulfolobus islandicus filamentous virus",
+  "fasta_old": "Y024_"
+ },
+ "P11365": {
+  "entry": "GAG_IPMA",
+  "protein": "Intracisternal A-particle Gag-related polypr",
+  "organism": "Mouse intracisternal a-particle MIA14",
+  "fasta_old": "GAG_I"
+ },
+ "Q9DUB7": {
+  "entry": "CAPSD_TTVZ1",
+  "protein": "Capsid protein",
+  "organism": "Torque teno douroucouli virus",
+  "fasta_old": "CAPSD"
+ },
+ "Q8V7J0": {
+  "entry": "CAPSD_TTVV6",
+  "protein": "Capsid protein",
+  "organism": "Torque teno virus",
+  "fasta_old": "CAPSD"
+ },
+ "P25884": {
+  "entry": "SHDAG_HDVS2",
+  "protein": "Small delta antigen",
+  "organism": "Hepatitis delta virus genotype I",
+  "fasta_old": "SHDAG"
+ },
+ "Q96626": {
+  "entry": "L2MU_ADEB2",
+  "protein": "Late L2 mu core protein",
+  "organism": "Bovine adenovirus 2",
+  "fasta_old": "L2MU_"
+ },
+ "P03110": {
+  "entry": "VL2_OVPVD",
+  "protein": "Minor capsid protein L2",
+  "organism": "Odocoileus virginianus papillomavirus 1",
+  "fasta_old": "VL2_O"
+ },
+ "Q8QL53": {
+  "entry": "POLN_SAV2",
+  "protein": "Polyprotein P1234",
+  "organism": "Alphavirus salmon subtype 2",
+  "fasta_old": "POLN_"
+ },
+ "P33460": {
+  "entry": "REV_CAEVC",
+  "protein": "Protein Rev",
+  "organism": "Caprine arthritis encephalitis virus",
+  "fasta_old": "REV_C"
+ },
+ "P0C9F0": {
+  "entry": "1001R_ASFK5",
+  "protein": "Protein MGF 100-1R",
+  "organism": "African swine fever virus",
+  "fasta_old": "1001R"
+ },
+ "Q9WSV7": {
+  "entry": "CAPSD_TTVV5",
+  "protein": "Capsid protein",
+  "organism": "Torque teno virus",
+  "fasta_old": "CAPSD"
+ },
+ "P16730": {
+  "entry": "UL87_HCMVA",
+  "protein": "Protein UL87",
+  "organism": "Human cytomegalovirus",
+  "fasta_old": "UL87_"
+ },
+ "A4GZ97": {
+  "entry": "CAPSD_TTVG1",
+  "protein": "Capsid protein",
+  "organism": "Torque teno midi virus 1",
+  "fasta_old": "CAPSD"
+ },
+ "P10220": {
+  "entry": "LTP_HHV11",
+  "protein": "Large tegument protein deneddylase",
+  "organism": "Human herpesvirus 1",
+  "fasta_old": "LTP_H"
+ }
+}

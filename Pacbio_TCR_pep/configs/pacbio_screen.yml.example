@@ -1,0 +1,46 @@
+# PacBio TCR+peptide screen (Pacbio_TCR_pep)
+# Example values reproduce the patient 2704 V2 analysis (rounds R2 + R3).
+# Copy to configs/my_pacbio.yml and adjust paths.
+
+sample_name: 2704-V2-R23
+
+# --- output layout (created if missing) ---
+analysis_dir: analysis
+output_dir: output
+logs_dir: logs
+
+# --- reference files ---
+# 101TCR_reference.fasta ships with this repo (data/reference/);
+# peptide libraries ship zipped under B27_single_TCR_screen/data/reference/ — unzip first.
+reference:
+  tcr_reference: data/reference/101TCR_reference.fasta
+  human_proteome: data/reference/human_proteome_B2705.fasta
+  virus_proteome: data/reference/virome_proteome_B2705.fasta
+
+# --- extraction options (01_extract_tcr_peptide.py) ---
+extract:
+  min_len: 1800            # full-construct read-length window (bp)
+  max_len: 2500
+  threads: 8               # minimap2 / worker threads
+
+# --- enrichment rounds ---
+# Each round: one HiFi BAM (PacBio Revio) matched by glob, or an existing FASTQ.
+rounds:
+  - name: 2704_V2_good_R2
+    round_label: R2
+    bam_glob: data/sequencing/2704_V2_good_R2/Revio/*/*.bam
+    # fastq: data/sequencing/2704_V2_good_R2.hifi_reads.fastq   # optional shortcut
+  - name: 2704_V2_good_R3
+    round_label: R3
+    bam_glob: data/sequencing/2704_V2_good_R3/Revio/*/*.bam
+
+# --- solo analysis (03_solo_analysis.py) ---
+analysis:
+  fold_change_min: 0.1
+  fold_change_max: 60
+  min_count_ratio: 0.05    # 1/20 per-peptide threshold for PCR chimera strict cleaning
+  min_peptide_len: 8
+  remove_peptide_keywords: # control peptides removed in the clean filter
+    - DMF5
+    - TCR_074 #(optional for removing high tonic signal TCR)
+  allowed_tcr_numbers: "1-49,101"   # TCR_001..TCR_049 + TCR_101

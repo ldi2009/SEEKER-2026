@@ -1,0 +1,425 @@
+{
+ "boxes": [
+  {
+   "text": "RRRRKAVRR\nCAPSD_TTVV9",
+   "x0": 493.2,
+   "x1": 1131.8,
+   "ytop": 1795.3,
+   "ybot": 2074.2
+  },
+  {
+   "text": "RRRRKSLKT\nBMP1",
+   "x0": 273.5,
+   "x1": 1322.4,
+   "ytop": 801.8,
+   "ybot": 1423.5
+  },
+  {
+   "text": "RRRRKAQRR\nCACNA1H",
+   "x0": 675.0,
+   "x1": 1245.8,
+   "ytop": 1792.2,
+   "ybot": 2943.0
+  },
+  {
+   "text": "RRRRKVKRV\nGPATCH2L",
+   "x0": 21.9,
+   "x1": 1200.5,
+   "ytop": 949.3,
+   "ybot": 1497.2
+  },
+  {
+   "text": "KRRRKSLRR\nATAD2B",
+   "x0": 1535.7,
+   "x1": 1898.6,
+   "ytop": 1900.6,
+   "ybot": 2726.5
+  },
+  {
+   "text": "RRRRKVLAR\nCYP26C1",
+   "x0": 258.5,
+   "x1": 1028.9,
+   "ytop": 1572.8,
+   "ybot": 1650.8
+  },
+  {
+   "text": "RRRRKVKRM\nGPATCH2",
+   "x0": 96.7,
+   "x1": 1242.1,
+   "ytop": 1408.6,
+   "ybot": 1596.5
+  },
+  {
+   "text": "RRKRKSLQR\nCSNK1G2",
+   "x0": 1272.3,
+   "x1": 1582.8,
+   "ytop": 1687.2,
+   "ybot": 2752.6
+  },
+  {
+   "text": "RRPRKTHKV\nGAG_IPMA",
+   "x0": 1810.9,
+   "x1": 2841.9,
+   "ytop": 992.4,
+   "ybot": 1287.5
+  },
+  {
+   "text": "RRKRKSYIV\nZBTB44",
+   "x0": 1567.2,
+   "x1": 1946.5,
+   "ytop": 737.6,
+   "ybot": 1297.1
+  },
+  {
+   "text": "RRRRKQRKV\nTSPYL2",
+   "x0": 1412.6,
+   "x1": 1869.4,
+   "ytop": 471.0,
+   "ybot": 1500.9
+  },
+  {
+   "text": "RRSRKSHSR\nRDRP_NODAM",
+   "x0": 963.6,
+   "x1": 1361.0,
+   "ytop": 1801.9,
+   "ybot": 2457.4
+  },
+  {
+   "text": "KRRRKTLKK\nNOP2",
+   "x0": 1864.3,
+   "x1": 2536.2,
+   "ytop": 1273.0,
+   "ybot": 1408.5
+  },
+  {
+   "text": "RRRRKLFKT\nCAPSD_CTFVL",
+   "x0": 852.6,
+   "x1": 1335.0,
+   "ytop": 271.3,
+   "ybot": 1288.1
+  },
+  {
+   "text": "RRFRKTAKK\nTAF7",
+   "x0": 1774.9,
+   "x1": 2675.8,
+   "ytop": 723.3,
+   "ybot": 1138.6
+  },
+  {
+   "text": "RRWRKIPKR\nCHRM1",
+   "x0": 1355.5,
+   "x1": 1658.5,
+   "ytop": 325.9,
+   "ybot": 1233.7
+  },
+  {
+   "text": "KRTRKSRRL\nY105_ABVP",
+   "x0": 1757.9,
+   "x1": 2472.6,
+   "ytop": 1986.5,
+   "ybot": 2359.8
+  },
+  {
+   "text": "KRIRKSHKR\nERCC4",
+   "x0": 1964.7,
+   "x1": 2927.7,
+   "ytop": 1772.2,
+   "ybot": 1912.6
+  },
+  {
+   "text": "KRPRKAQRL\nNTHL1",
+   "x0": 1621.6,
+   "x1": 1971.9,
+   "ytop": 2036.8,
+   "ybot": 2495.6
+  },
+  {
+   "text": "KRIRKAAKR\nZNF692",
+   "x0": 1823.1,
+   "x1": 2888.1,
+   "ytop": 1675.1,
+   "ybot": 1753.1
+  },
+  {
+   "text": "RRRRKSLKTF\nBMP1",
+   "x0": 538.6,
+   "x1": 1230.0,
+   "ytop": 425.8,
+   "ybot": 1223.4
+  },
+  {
+   "text": "KRFRKTQKK\nTAF7L",
+   "x0": 2039.0,
+   "x1": 2819.1,
+   "ytop": 1130.2,
+   "ybot": 1265.6
+  },
+  {
+   "text": "KRLRKALKK\n1001R_ASFK5",
+   "x0": 2004.2,
+   "x1": 2818.9,
+   "ytop": 1351.7,
+   "ybot": 1525.0
+  },
+  {
+   "text": "RRNRKARKA\nPK_BPT7",
+   "x0": 1509.2,
+   "x1": 2831.1,
+   "ytop": 1520.6,
+   "ybot": 1652.0
+  },
+  {
+   "text": "KRTRKGFRL\nFCER1A",
+   "x0": 1907.0,
+   "x1": 3062.0,
+   "ytop": 1933.3,
+   "ybot": 2079.2
+  },
+  {
+   "text": "RRGRKVYIR\n1A_CMVY",
+   "x0": -17.1,
+   "x1": 1136.4,
+   "ytop": 1659.5,
+   "ybot": 2186.1
+  },
+  {
+   "text": "SRPRKSHRH\nSRRM4",
+   "x0": 1742.3,
+   "x1": 2431.4,
+   "ytop": 2115.2,
+   "ybot": 2904.9
+  },
+  {
+   "text": "KRRRKTLKKM\nNOP2",
+   "x0": 1915.1,
+   "x1": 2695.3,
+   "ytop": 858.9,
+   "ybot": 1205.4
+  },
+  {
+   "text": "RKARKTIKK\nSHDAG_HDVS2",
+   "x0": 1961.4,
+   "x1": 2723.0,
+   "ytop": 547.4,
+   "ybot": 964.7
+  },
+  {
+   "text": "RRRRKLFKTW\nCAPSD_CTFVL",
+   "x0": 207.7,
+   "x1": 1094.2,
+   "ytop": 594.9,
+   "ybot": 1217.3
+  },
+  {
+   "text": "RRQRRSRRL\nRASSF10",
+   "x0": 375.1,
+   "x1": 1211.2,
+   "ytop": 2088.6,
+   "ybot": 2664.6
+  },
+  {
+   "text": "KRTRKSRRLL\nY105_ABVP",
+   "x0": 1861.4,
+   "x1": 2462.2,
+   "ytop": 2139.1,
+   "ybot": 2564.5
+  },
+  {
+   "text": "RKARKTVKK\nADNP",
+   "x0": 1838.1,
+   "x1": 2231.3,
+   "ytop": 494.8,
+   "ybot": 898.8
+  },
+  {
+   "text": "SRHRKSFRY\n1A_TOBSV",
+   "x0": 1355.8,
+   "x1": 1662.5,
+   "ytop": 2152.3,
+   "ybot": 3042.8
+  },
+  {
+   "text": "RMRRKAAVKR\nC2orf81",
+   "x0": -167.1,
+   "x1": 868.0,
+   "ytop": 1165.9,
+   "ybot": 1392.3
+  },
+  {
+   "text": "RQVRKAQRR\nLARP4B",
+   "x0": 335.8,
+   "x1": 1078.1,
+   "ytop": 1997.3,
+   "ybot": 2402.8
+  },
+  {
+   "text": "RRWRRRPRR\nCAPSD_TTVZ1",
+   "x0": 49.5,
+   "x1": 917.5,
+   "ytop": 1745.3,
+   "ybot": 1862.5
+  },
+  {
+   "text": "KRTRKGFRLL\nFCER1A",
+   "x0": 2014.8,
+   "x1": 3037.4,
+   "ytop": 2007.9,
+   "ybot": 2255.3
+  }
+ ],
+ "label_info": [
+  [
+   "RRRRKAVRR / CAPSD_TTVV9",
+   99.0
+  ],
+  [
+   "RRRRKSLKT / BMP1",
+   99.0
+  ],
+  [
+   "RRRRKAQRR / CACNA1H",
+   99.0
+  ],
+  [
+   "RRRRKVKRV / GPATCH2L",
+   99.0
+  ],
+  [
+   "KRRRKSLRR / ATAD2B",
+   99.0
+  ],
+  [
+   "RRRRKVLAR / CYP26C1",
+   99.0
+  ],
+  [
+   "RRRRKVKRM / GPATCH2",
+   99.0
+  ],
+  [
+   "RRKRKSLQR / CSNK1G2",
+   99.0
+  ],
+  [
+   "RRPRKTHKV / GAG_IPMA",
+   99.0
+  ],
+  [
+   "RRKRKSYIV / ZBTB44",
+   99.0
+  ],
+  [
+   "RRRRKQRKV / TSPYL2",
+   99.0
+  ],
+  [
+   "RRSRKSHSR / RDRP_NODAM",
+   99.0
+  ],
+  [
+   "KRRRKTLKK / NOP2",
+   99.0
+  ],
+  [
+   "RRRRKLFKT / CAPSD_CTFVL",
+   99.0
+  ],
+  [
+   "RRFRKTAKK / TAF7",
+   99.0
+  ],
+  [
+   "RRWRKIPKR / CHRM1",
+   99.0
+  ],
+  [
+   "KRTRKSRRL / Y105_ABVP",
+   99.0
+  ],
+  [
+   "KRIRKSHKR / ERCC4",
+   99.0
+  ],
+  [
+   "KRPRKAQRL / NTHL1",
+   99.0
+  ],
+  [
+   "KRIRKAAKR / ZNF692",
+   99.0
+  ],
+  [
+   "RRRRKSLKTF / BMP1",
+   99.0
+  ],
+  [
+   "KRFRKTQKK / TAF7L",
+   99.0
+  ],
+  [
+   "KRLRKALKK / 1001R_ASFK5",
+   99.0
+  ],
+  [
+   "RRNRKARKA / PK_BPT7",
+   99.0
+  ],
+  [
+   "KRTRKGFRL / FCER1A",
+   99.0
+  ],
+  [
+   "RRGRKVYIR / 1A_CMVY",
+   99.0
+  ],
+  [
+   "SRPRKSHRH / SRRM4",
+   99.0
+  ],
+  [
+   "KRRRKTLKKM / NOP2",
+   99.0
+  ],
+  [
+   "RKARKTIKK / SHDAG_HDVS2",
+   99.0
+  ],
+  [
+   "RRRRKLFKTW / CAPSD_CTFVL",
+   99.0
+  ],
+  [
+   "RRQRRSRRL / RASSF10",
+   99.0
+  ],
+  [
+   "KRTRKSRRLL / Y105_ABVP",
+   99.0
+  ],
+  [
+   "RKARKTVKK / ADNP",
+   99.0
+  ],
+  [
+   "SRHRKSFRY / 1A_TOBSV",
+   99.0
+  ],
+  [
+   "RMRRKAAVKR / C2orf81",
+   99.0
+  ],
+  [
+   "RQVRKAQRR / LARP4B",
+   99.0
+  ],
+  [
+   "RRWRRRPRR / CAPSD_TTVZ1",
+   99.0
+  ],
+  [
+   "KRTRKGFRLL / FCER1A",
+   99.0
+  ]
+ ],
+ "n_red_edges": 34
+}
